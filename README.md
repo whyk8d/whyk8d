@@ -23,6 +23,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/whyk8d/whyk8d/output/snake.svg" alt="Snake animation" />
-
 ###
